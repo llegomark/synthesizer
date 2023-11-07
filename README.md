@@ -44,6 +44,8 @@ Project Link: [https://github.com/llegomark/synthesizer](https://github.com/lleg
 
 HuggingFace Space: [https://huggingface.co/spaces/markllego/synthesizer](https://huggingface.co/spaces/markllego/synthesizer)
 
+Blog Post: [https://llego.dev/posts/openai-devday-2023/](https://llego.dev/posts/openai-devday-2023/)
+
 ## Acknowledgements
 
 - [OpenAI](https://openai.com/)
